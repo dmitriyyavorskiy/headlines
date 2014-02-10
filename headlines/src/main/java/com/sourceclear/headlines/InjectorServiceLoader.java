@@ -23,6 +23,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonIOException;
 import com.google.gson.JsonSyntaxException;
+import com.sourceclear.headlines.impl.cdpbeans.AllowAccessFromConfig;
 import com.sourceclear.headlines.serialization.ImmutableListDeserializer;
 import com.sourceclear.headlines.serialization.ImmutableMapDeserializer;
 import java.io.IOException;
